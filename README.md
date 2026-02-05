@@ -1,22 +1,18 @@
-## Hi I'm Doyinsola🦄
+## Hi, I’m Doyinsola 🦄
 
+## ✨ Who I Am
 
-I’m a Computer Science graduate student with a focus on cybersecurity and user-centered design.  
-
-
-##✨Who am I?
-
-✨ Master’s student in Computer Science (Cybersecurity) at Towson University (Graduating December 2026)  
-✨I enjoy building practical tools, supporting users, and creating technology that actually makes sense.
-✨ Interested in user-centered design, privacy, and making tech easier for people 
+- 🎓 Computer Science graduate student at Towson University, focused on cybersecurity and secure system design
+- 💻 Hands-on experience in technical support, development, and user-centered problem solving
+- 🌱 Interested in privacy, usability, and building technology that actually helps people
+- 💬 Ask me about design
 
 ### Interests
-- Cybersecurity & privacy
-- Technical support & IT systems
 - UI/UX design
+- Cybersecurity & privacy
 - Community & STEM education
 
-### Contact
+### Let’s Talk
 📧 Email: oduwoledoyinsola@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/doyinsolaoduwole/
 
@@ -26,12 +22,4 @@ I’m a Computer Science graduate student with a focus on cybersecurity and user
   Android app with AES encryption and role-based access control  
 
 - 🗄 **Neighborhood Income Tax Service Database**  
-  Relational database system with SQL queries and normalized schema 
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything design
-
--->
+  Relational database system with SQL queries and normalized schema
