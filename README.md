@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I’m Doyinsola 🦄</h1>
 
 ## ✨ Who am I?
-🎓 Computer Science graduate student at Towson University, focused on cybersecurity and secure system design</li>
-💻 Hands-on experience in technical support, development, and user-centered problem solving</li>
-🌱 Interested in privacy, usability, and building technology that actually helps people</li>
+🎓 Computer Science graduate student at Towson University, focused on cybersecurity and secure system design
+
+💻 Hands-on experience in technical support, development, and user-centered problem solving
+
+🌱 Interested in privacy, usability, and building technology that actually helps people
 
 
 ### Interests
