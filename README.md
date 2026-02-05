@@ -1,8 +1,8 @@
-## Hi, I’m Doyinsola 🦄
+<h1 align="center">Hi, I’m Doyinsola 🦄</h1>
 
 ## ✨ Who I Am
 
-- 🎓 Computer Science graduate student at Towson University, focused on cybersecurity and secure system design
+- 🎓 Master’s Student in Computer Science @ Towson University, focused on cybersecurity and secure system design
 - 💻 Hands-on experience in technical support, development, and user-centered problem solving
 - 🌱 Interested in privacy, usability, and building technology that actually helps people
 - 💬 Ask me about design
@@ -13,8 +13,8 @@
 - Community & STEM education
 
 ### Let’s Talk
-📧 Email: oduwoledoyinsola@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/doyinsolaoduwole/
+Email: oduwoledoyinsola@gmail.com  
+LinkedIn: https://linkedin.com/in/doyinsolaoduwole/
 
 ## 🚀 Featured Projects
 
