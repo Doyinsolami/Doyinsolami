@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Doyinsola 🦄</h1>
 
-## ✨ Who I Am
+## ✨ Who I Am?
 🎓 Master’s Student in Computer Science @ Towson University, focused on cybersecurity and secure system design
 💻 Hands-on experience in technical support, development, and user-centered problem solving
 🌱 Interested in privacy, usability, and building technology that actually helps people
